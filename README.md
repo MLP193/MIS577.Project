@@ -184,7 +184,6 @@ Homeland, CA 92548<br>
           </div>
         </div>
       </footer>
-  </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
