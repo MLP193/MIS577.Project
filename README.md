@@ -20,18 +20,16 @@
       </div>
       <hr>
       <div class="row">
-        <div class="col-md-8 col-sm-12">
+        <div class="col-md-8 col-sm-12 col-lg-12">
           <div class="media">
             <img src="images/15420998_1195455033825684_1152670594741810338_n.jpg" alt="Generic placeholder image" width="300" height="302" class="mr-3 rounded">
-            
             <div class="media-body">
               <h5 class="mt-0">IT Professional</h5>
-              Keller School of Management graduate, Bachelor’s of Science in Network & Communications, in the process of obtaining a Master’s Degree in Business Administration, with 5 years of experience in Information Technology, and 4 years of management experience in the restaurant industry. Honor student and member of “The National Society of Leadership and Success” (2018).
-				 Proven ability to resolve virus outbreaks through immediate isolation and removal, create and optimize Unix shell scripts, redesign networking and communications infrastructures for corporations, and provide system administration support for Unix systems including server and workstation upgrades, backups, and user account setup.
+              Keller School of Management graduate, Bachelor’s of Science in Network & Communications, in the process of obtaining a Master’s Degree in Business Administration, with 5 years of experience in Information Technology, and 4 years of management experience in the restaurant industry. Honor student and member of “The National Society of Leadership and Success” (2018).		 
             </div>
           </div>
         </div>
-        <div class="col-md-4 col-sm-12">
+        <div class="col-md-4 col-sm-12 col-lg-7">
           <div class="row justify-content-md-around m-1">
             <address>
             <strong>Markus Paxton</strong><br>
@@ -137,11 +135,13 @@ Homeland, CA 92548<br>
       <hr>
       <h2>Portfolio</h2>
       <hr>
+  <p>Proven ability to resolve virus outbreaks through immediate isolation and removal, create and optimize Unix shell scripts, redesign networking and communications infrastructures for corporations, and provide system administration support for Unix systems including server and workstation upgrades, backups, and user account setup.
+</p>
       <div class="container">
 <div class="row text-center">
-      <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="images/Bachelors.PNG" alt=""></div>
-          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="images/Angela Rec.PNG" alt=""></div>
-          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="images/Stacey rec.PNG" alt=""></div>
+      <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="https://user-images.githubusercontent.com/39105905/40589964-bd8e7d30-61ab-11e8-95e9-43223f3b8d33.PNG" alt=""></div>
+          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="https://user-images.githubusercontent.com/39105905/40589959-b41c76c6-61ab-11e8-8ba1-ffdd41852f5c.PNG""></div>
+          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="https://user-images.githubusercontent.com/39105905/40589961-b9857810-61ab-11e8-961e-8935145a237f.PNG" alt=""></div>
      </div>
 
         </div>
