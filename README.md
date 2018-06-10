@@ -140,7 +140,7 @@ Homeland, CA 92548<br>
       <div class="container">
 <div class="row text-center">
       <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="https://user-images.githubusercontent.com/39105905/40589964-bd8e7d30-61ab-11e8-95e9-43223f3b8d33.PNG" alt=""></div>
-          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="https://user-images.githubusercontent.com/39105905/40589959-b41c76c6-61ab-11e8-8ba1-ffdd41852f5c.PNG""></div>
+          <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="https://user-images.githubusercontent.com/39105905/40890112-b8b564e8-6725-11e8-9552-1cc80055a29e.PNG" alt=""></div>
           <div class="col-sm-4 col-12 p-0"><img class="img-thumbnail"  src="https://user-images.githubusercontent.com/39105905/40589961-b9857810-61ab-11e8-961e-8935145a237f.PNG" alt=""></div>
      </div>
 
@@ -184,7 +184,6 @@ Homeland, CA 92548<br>
           </div>
         </div>
       </footer>
-  </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
