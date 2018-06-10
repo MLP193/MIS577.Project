@@ -17,8 +17,6 @@
         <div class="col-6">
           <p class="text-right"><a href="">Download my Resume</a></p>
         </div>
-        <label for="datetime-local">DateTime-Local:</label>
-        <input type="datetime-local" name="datetime-local" id="datetime-local">
       </div>
       <hr>
       <div class="row">
