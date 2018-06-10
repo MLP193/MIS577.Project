@@ -183,7 +183,6 @@ Homeland, CA 92548<br>
             <div class="col-12">
               <p>Copyright © Markus L Paxton. All rights reserved.</p>
             </div>
-          </div>
         </div>
       </footer>
   </div>
