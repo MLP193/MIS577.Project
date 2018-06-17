@@ -15,7 +15,8 @@
           <h1>Markus L. Paxton</h1>
         </div>
         <div class="col-6">
-          <p class="text-right"><a href="">Download my Resume</a></p>
+          <p class="text-right"><a href="https://github.com/MLP193/MIS577.Project/files/2109239/MarkusL.Paxton.Resume.docx
+">Download my Resume</a></p>
         </div>
       </div>
       <hr>
